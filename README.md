@@ -5,13 +5,13 @@
 <img width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47wlqb851jhx3hbd7kviw6g4dusbs9aq1xgtdfkoe3&rid=giphy.gif&ct=g" />
 
 
-- 🌱 I’m currently working on **Zeromax inc**
+- 🌱 I’m currently working on **Uzhost Inc**
 
-- 👨‍💻 All of my projects are available at [http://aerkinov.pro](http://aerkinov.pro)
+- 👨‍💻 All of my projects are available at [https://uzhost.net](https://uzhost.net)
 
 - 💬 Ask me about **Web development**
 
-- 📫 How to reach me **erkinovabdulvoris101@gmail.com**
+- 📫 How to reach me **ceo@uzhost.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
